@@ -1,0 +1,11 @@
+<!-- 被2012 () 使用XMLSpy v编辑的 (http://www.altova.com) by -->
+
+
+<config>
+	<MissonXML MissionId="1" MissionType="1" MissionTime="10" SpotCount="2" MaxSpotCount="30" ></MissonXML>
+	<MissonXML MissionId="2" MissionType="1" MissionTime="10" SpotCount="4" MaxSpotCount="30" ></MissonXML>
+	<MissonXML MissionId="3" MissionType="1" MissionTime="10" SpotCount="6" MaxSpotCount="30" ></MissonXML>
+	<MissonXML MissionId="4" MissionType="1" MissionTime="10" SpotCount="8" MaxSpotCount="30" ></MissonXML>
+	<MissonXML MissionId="5" MissionType="1" MissionTime="10" SpotCount="8" MaxSpotCount="30" ></MissonXML>
+	<MissonXML MissionId="6" MissionType="1" MissionTime="10" SpotCount="8" MaxSpotCount="30" ></MissonXML>
+</config>
