@@ -13,7 +13,7 @@ public class Pattern2 : MonoBehaviour {
 
 
 	void Start () {
-	    //Testgit!!!!!!!!!!!!!!!!!1 master change
+	    //Testgit!!!!!!!!!!!
 	}
 	
 
